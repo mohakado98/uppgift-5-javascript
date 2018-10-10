@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+.col-12 {
+    text-align: center;
+    height: 300px;
+    width: 500px;
+    margin: 124px auto 0px auto;
+    border-radius: 10px;
+    background-color: rgb(218, 21, 21);
+    
+}
+#nummer1{
+    margin-top:100px
+}
+
+#btn {
+    margin-top: 10px;
+    
+}

@@ -1,0 +1,10 @@
+@media screen and (min-width: 640px) {
+    .col-12 {
+        width: 50%;
+    }
+}
+
+
+#nummer1{
+    margin-top:100px
+}
